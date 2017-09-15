@@ -227,7 +227,7 @@
 				TargetAttributes = {
 					C6412EFA1E76F03900F467FE = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = Y747X47RCY;
+						DevelopmentTeam = 8TY7SD6QGK;
 						ProvisioningStyle = Automatic;
 					};
 					C6412F101E76F03900F467FE = {
@@ -453,12 +453,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = Y747X47RCY;
+				DEVELOPMENT_TEAM = 8TY7SD6QGK;
 				INFOPLIST_FILE = SimulateLocation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cc.caver.HXKit.SimulateLocation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -466,12 +467,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = Y747X47RCY;
+				DEVELOPMENT_TEAM = 8TY7SD6QGK;
 				INFOPLIST_FILE = SimulateLocation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cc.caver.HXKit.SimulateLocation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
